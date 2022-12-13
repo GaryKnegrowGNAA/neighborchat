@@ -1,4 +1,3 @@
-## Decentralized chat network protocol
+# N*ggerchat Protocol
 
-### General description
-For now it supports establishing connection with host from chat and further entering in a chat
+N*ggerchat (Nchat) is a decentralized, peer to peer chat protocol. This is the source code for some components of Nchat.
